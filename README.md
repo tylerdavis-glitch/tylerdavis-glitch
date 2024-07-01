@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tyler</h1>
+<h1 align="center">Hi 👋, I'm Tyler, I'm an intern at KKCF, and I'm from Atlanta, Georgia</h1>
 <h3 align="center">I'm interested in cybersecurity</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tylerdavis-glitch" alt="tylerdavis-glitch" /></a> </p>
